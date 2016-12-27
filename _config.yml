@@ -1,10 +1,11 @@
 port:  5000
 markdown: kramdown
-name: "My Reps"
-url: http://findmyreps.datamade.us
+name: "Data Jobs"
+baseurl: https://rebeccawilliams.us
+url: https://rebeccawilliams.us/datajobs
 encoding: utf-8
 timezone: America/Chicago
-description: "Enter your address to find and contact your federal, state, county and local elected representatives"
+description: "Search government data jobs"
 gems:
   - jekyll-redirect-from
 google_api_key: AIzaSyAVQrWzBeHiKaOiNwkEyLkxDV8-jUbTmTw
